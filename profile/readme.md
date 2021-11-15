@@ -1,6 +1,6 @@
 # Notice about end of life
 
-There is now broad support for the OpenTelemtry standard in .NET and as such the need for things like CorrelatorSharp is greatly diminished.
+There is now broad support for the OpenTelemetry standard in .NET and as such the need for things like CorrelatorSharp is greatly diminished.
 
 We are advising everyone move towards the open standard and has a good time. This set of packages is going into EoL. 
 
